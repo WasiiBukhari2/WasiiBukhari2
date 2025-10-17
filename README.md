@@ -2,10 +2,10 @@
 
 🎓 Bachelor’s in Artificial Intelligence
 📍 The Islamia University of Bahawalpur, Pakistan
+
 📧 Email: wasimbukhari383@gmail.com
 
 📞 Phone: +92 327 4189881
-🌐 University Website
 
 🧠 About Me
 
@@ -24,14 +24,6 @@ Debugged and optimized Python code for smooth execution.
 Designed preprocessing pipelines for large datasets.
 
 Built and tested ML models for predictive insights.
-
-💰 Financial Manager (Part-time) — JHU Technology Pvt Ltd (Mar 2023 – Sep 2023)
-
-📍 Bahawalpur, Pakistan
-
-Supervised budgeting and financial forecasting processes.
-
-Analyzed financial reports to assist management in data-driven decisions.
 
 🎓 Education
 
